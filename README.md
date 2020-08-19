@@ -1,0 +1,1 @@
+# Wine datasından sonuç üretmek
