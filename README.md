@@ -1,1 +1,1 @@
-# Wine datasından sonuç üretmek
+# Wine verisetini kullanarak yapmış olduğum sınıflama 
