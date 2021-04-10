@@ -1,1 +1,1 @@
-# Wine verisetini kullanarak yapmış olduğum sınıflama 
+# Wine verisetini kullanarak şarapların içindeki değerlere göre kalitesini tahmin eden dar bir yapay zeka modeli
